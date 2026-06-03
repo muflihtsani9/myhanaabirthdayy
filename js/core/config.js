@@ -76,35 +76,29 @@ const CONFIG = {
   // ─── LOVE STORY DATA ──────────────────────────────────────────────
   timeline: [
     {
-      date: "The Beginning",
-      title: "First Collision",
-      quote: "A thousand strangers passed. But you — you were different. You looked like a feeling I had forgotten.",
+      date: "",
+      title: "Pertama kali kenalannn :",
+      quote: "darii instagramm dan mulai deket di wa, baru mulai videocall jugaa di whatsapp",
       icon: "✦",
     },
     {
-      date: "First Words",
-      title: "The Message That Changed Everything",
-      quote: "Three words on a screen. And somehow the entire architecture of my life shifted imperceptibly.",
+      date: "",
+      title: "Mulai-mulai dekettt :",
+      quote: "mulai berani videocall di wa, dan mulaii nyamann di whatsap jugaa ampe rapi bacain puisii yang sangat’ puitiss by chatgpt HAHAH",
       icon: "◈",
     },
     {
-      date: "First Voice",
-      title: "When I Heard You",
-      quote: "Your laugh was the most disorienting thing. I replayed it seventeen times. Accidentally.",
+      date: "",
+      title: "Pertama kali ketemuu huwaa:",
+      quote: "dikabarin mau kemedan pas rapi ada latihan, alhasil bolosin sekolah dan ketemuu my calonn pacarr",
       icon: "◉",
     },
     {
-      date: "First Meeting",
-      title: "Time Stopped Here",
-      quote: "You walked in and the ambient noise of the world just... disappeared. Like someone had pressed mute on everything that wasn't you.",
+      date: "",
+      title: "Kehidupan rapii setelah ada hanaa:",
+      quote: "sangatt berubahh dann sangatt berbungaa, i love this feelingg, rapii punyaa tekad yang besarr karenaa hanaa dan karenaa ituu akuu sangatt mencintaii muu cintaa kuuuu",
       icon: "✧",
-    },
-    {
-      date: "Right Now",
-      title: "Every Day After",
-      quote: "I don't believe in fate. But I believe in you. Which, it turns out, is the same thing.",
-      icon: "♡",
-    },
+    }
   ],
 
   // ─── GALLERY CAPTIONS ─────────────────────────────────────────────
